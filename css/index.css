@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono&display=swap');
+
+body {
+/* This will style the body element in a html document */
+    background-color: rgb(25, 167, 151);
+
+    font-family: 'Noto Sans Mono', monospace;
+    background-color: aquamarine;
+}
+
+/*  Implementing Selectors */
+
+p { 
+
+color:antiquewhite;
+
+}
+
+.test_class { 
+    color:beige;
+
+}
+
+#test_id {
+    color:blueviolet;
+
+}
