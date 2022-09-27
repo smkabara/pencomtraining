@@ -15,6 +15,17 @@ p {
 color:antiquewhite;
 
 }
+.margin{
+    margin: 4rem solid red;
+}
+
+.box{
+    border: 5px solid black;
+}
+
+.padding{
+    padding: 5rem;
+}
 
 .test_class { 
     color:beige;
