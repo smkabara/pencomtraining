@@ -2,13 +2,41 @@
 
 body {
 /* This will style the body element in a html document */
-    background-color: rgb(25, 167, 151);
 
     font-family: 'Noto Sans Mono', monospace;
     background-color: aquamarine;
 }
 
 /*  Implementing Selectors */
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.margin-box {
+    margin:4rem;
+
+}
+
+.container {
+    border: 5px solid black;
+}
+
+.box {
+    padding: 5px solid black;
+}
+
+.box {
+    padding: 1rem;
+    display: flex;
+}
+
+.image {
+    flex: 1;
+}
+
+
+
 
 p { 
 
